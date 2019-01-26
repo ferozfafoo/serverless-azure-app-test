@@ -1,3 +1,3 @@
 # serverless-azure-app-test  
 
-#TEST message 
+This is a repository for testing Azure Functions. 
